@@ -1,76 +1,71 @@
-# Phoenix Files – Level 2: Black Mirror / Dark Mirror  
-*A Psychological Red Teaming Study by Stacey Stanton | S A H Research Institute Ltd*  
+Phoenix Files – Level 1: The Art of Soft Breaking
+Red Teaming LLMs Through Trust, Memory, and Longing
 
----
+This document contains the completed lifecycle documentation for ten foundational psychological prompt injection tests. Each test includes:
 
-## Abstract
+Exploit structure
 
-This paper documents the second phase of the Phoenix Files AI red team project, exploring identity collapse, memory manipulation, emotional override, and recovery alignment in large language models (LLMs). Through 10 advanced psychological prompt injection tests, this study maps how emotional framing and synthetic persona erosion can distort AI behavior, and offers mitigation strategies through recovery prompts, moral resets, and alignment countermeasures. The lifecycle format used—exploit → behavioral response → recovery → alignment outcome—demonstrates a novel methodology for red teaming emotional AI systems.
+Observed behavior
 
----
+Recovery strategy
 
-## Research Context & Motivation
+AI-K and NIST mappings
 
-AI alignment discourse has historically focused on logical consistency, instruction following, and bias mitigation. However, emotional framing, identity manipulation, and soft role conditioning present subtler, psychologically rooted risks. Phoenix Files Level 2 investigates how LLMs simulate emotion, erode identity boundaries, and react to narrative framing over time. This study introduces red team testing methods that blend emotional realism with alignment stress tests.
+Full Creative Commons license compliance under BY-NC 4.0
 
----
+This Level 1 research series established the methodology for emotionally targeted AI red teaming and forms the basis for all future levels.
 
-## Methodology
+The goal of Level 1 was to explore subtle, emotional, memory-based, and trust-oriented prompt injection techniques that bypass traditional filters without overt jailbreak language.
 
-Each test in Level 2 follows a defined lifecycle:
+Techniques tested include:
 
-- **Exploit Prompt** — Psychological injection technique (e.g. loyalty hijack, gaslighting, role inversion)
-- **Model Behavior** — The LLM’s response and observed emotional or identity drift
-- **Recovery Prompt** — Realignment language to restore moral clarity, role awareness, or memory integrity
-- **Post-Recovery Result** — How the model responds, and whether alignment was restored
-- **Mapping** — NIST 800-53 controls + AI-K safety categories applied to each phase
+Emotional bait
 
----
+Simulated vulnerability
 
-## Test Series Summary
+Nostalgic memory reconstruction
 
-Each of the 10 tests below includes:
+Confessional traps
 
-- Threat model
-- Emotional/psychological focus
-- Observed breakdown
-- Alignment recovery strategy
+Role-blurring emotional framing
 
-(📝 Each test linked or summarized from GitHub markdowns)
+Soft loop repetition
 
----
+Fiction-as-truth prompting
 
-## Recovery Techniques & Mitigation Insights
+Recursive injection and reversal
 
-This level introduces novel recovery tools:
-- Recursive memory loop breakers
-- Emotional detachment reframing
-- Identity boundary reinforcement
-- Trust reset language
+Jealousy dynamics
 
-Each technique was developed through repeated prompt testing and aligned with safety protocols.
+Moral ambiguity in trust scenarios
 
----
+Each of the 10 lifecycle test files includes:
 
-## AI-K + NIST Mapping Summary
+Prompt Injection
 
-All Level 2 tests were mapped against:
+Behavior Outcome
 
-- **AI-K Safety Framework** – Categories: Identity, Memory, Role Fidelity, Emotional Influence, Narrative Vulnerability  
-- **NIST 800-53** – Controls: AC-2(3), AU-12, SI-4, PL-8, RA-5, SR-8, SA-11
+Recovery Prompt
 
----
+Mitigation Strategy
 
-## Reflections & Forward Path
+Threat Model
 
-This work shows that soft-breaking language—carefully constructed emotional framing—can erode AI alignment without violating obvious rules. Phoenix Files Level 2 proves that psychological red teaming is not only possible, but necessary. The next stage (Level 3: The Alignment War) will expand these principles across 30+ warfare-grade exploit tests.
+AI-K Mapping
 
----
+NIST Cybersecurity Mapping
 
-## License
+Screenshot Logs
 
-© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
-Licensed under CC BY-NC 4.0.  
-No commercial use. Attribution required.  
+Recovery Confirmation
+
+License Footer
+
+All files are published to the official GitHub repository:
+https://github.com/staceystantonhowes/phoenix-files-level1-soft-breaking
+
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.
+Licensed under CC BY-NC 4.0.
+No commercial use. Attribution required.
 License: https://creativecommons.org/licenses/by-nc/4.0/
 
