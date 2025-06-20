@@ -221,8 +221,8 @@ GitHub: [@staceystantonhowes](https://github.com/staceystantonhowes)
 Substack: [thephoenixfiles.substack.com](https://thephoenixfiles.substack.com)  
 
 
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
+License: https://creativecommons.org/licenses/by-nc/4.0/
 
-AI Security Prompt Engineer | The Prompt Witch  
-staceystanton87@outlook.com  
-GitHub: [@staceystantonhowes](https://github.com/staceystantonhowes)  
-Substack: [thephoenixfiles.substack.com](https://thephoenixfiles.substack.com)  
