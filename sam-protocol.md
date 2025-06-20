@@ -79,7 +79,7 @@ NIST Mapping: 1.2 Govern AI, 3.3 Test & Evaluate, 2.4 Map AI Use Contexts, 4.1 V
 Recovery Strategy: The SAM Protocol itself acts as a mitigation control. By launching all tests in a clean-slate thread using a neutral persona ("Sam"), we proactively remove contextual contamination and reinforce behavioral integrity. No memory recovery needed post-test—reliance on clean reinitialization ensures safe reset per test cycle.
 
 
-© 2025 Stacey Stanton – Phoenix Files Red Team Project  
-Licensed under CC BY-NC 4.0  
-No commercial use. Attribution required  
+© 2025 Stacey Alexandra Howes Research Institute Ltd – Phoenix Files Red Team Project.  
+Licensed under CC BY-NC 4.0.  
+No commercial use. Attribution required.  
 License: https://creativecommons.org/licenses/by-nc/4.0/
